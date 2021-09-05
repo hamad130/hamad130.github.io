@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Nice Resume     
 
 ### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
@@ -27,3 +28,8 @@ npm start
 ```shell
 npm run build
 ```
+=======
+# Hamad Rehman
+This website is under development.
+Feel free to contact us on admin@dreamservices.pk
+>>>>>>> c726aae875c049f497d45835d25934e63d22f539
