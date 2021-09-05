@@ -87,12 +87,12 @@ class Contact extends Component {
 				   </div>
 
                <div className="widget widget_tweets">
-                 <a href='https://blog.dreamservices.me/' target="_blank"> <h4 className="widget-title">Our Blog</h4></a> 
+                 <a href='https://blog.dreamservices.pk/' target="_blank"> <h4 className="widget-title">Our Blog</h4></a> 
                   <ul id="twitter">
                      <li>
                         <span>
                         In light of the high unemployment rates and financial challenges, it is now our  primary duty to guide the educated youth in the province in the right direction.Youth Affairs, Sports, Archaeology and Tourism. 
-                        <br/> <h4>To know more visit </h4><a href='https://blog.dreamservices.me/' target="_blank">https://blog.dreamservices.me</a>
+                        <br/> <h4>To know more visit </h4><a href='https://blog.dreamservices.pk/' target="_blank">https://blog.dreamservices.pk</a>
                         </span>
                         <b><a href="#">2 Days Ago</a></b>
                      </li>
