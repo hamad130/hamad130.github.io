@@ -46,13 +46,14 @@ export default function MediaCard(props) {
         </CardContent>
       </CardActionArea>
       <CardActions style={{justifyContent:'center'}} className='services'>
-      
+      <a  href={'https://wa.me/message/DMGOJKK3EHSBD1?text=Hi,%20I%20am%20interested%20in%20'+props.title} target="_blank">
         <Button size="large" color="primary" fullWidth >
+          
         <WhiteTypography variant="h5" color="textPrimary" component="h4">
           Get In Touch
           </WhiteTypography>
         </Button>
-        
+        </a>
       </CardActions>
     </Card>
   );
