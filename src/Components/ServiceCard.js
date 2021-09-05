@@ -35,7 +35,7 @@ export default function MediaCard(props) {
           image={"images/services/" + props.img}
           title={props.title}
         />
-        <CardContent>
+        <CardContent style={{ height: "175px" }}>
           <Typography
             gutterBottom
             variant="h3"
