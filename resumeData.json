@@ -20,28 +20,19 @@
     "social": [
       {
         "name": "facebook",
-        "url": "",
+        "url": "https://www.facebook.com/ProDreamServices/",
         "className": "fa fa-facebook"
       },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
+
       {
         "name": "linkedin",
-        "url": "",
+        "url": "https://www.linkedin.com/in/dream-services-%C2%A9%C2%AE%E2%84%A2-ab1aa51b5",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "",
+        "url": "https://www.instagram.com/invites/contact/?i=16zazfdxh2lcb&utm_content=icha17h",
         "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "",
-        "className": "fa fa-github"
       }
     ]
   },
@@ -140,7 +131,5 @@
       }
     ]
   },
-  "Team": [
-]
-
+  "Team": []
 }
