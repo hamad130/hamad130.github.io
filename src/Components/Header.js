@@ -47,7 +47,11 @@ class Header extends Component {
                 About
               </a>
             </li>
-            
+             <li>
+              <a  href='https://blog.dreamservices.pk/' target="_blank">
+                Blog
+              </a>
+            </li>
             {/* <li>
               <a className='smoothscroll' href='#team'>
                 Team

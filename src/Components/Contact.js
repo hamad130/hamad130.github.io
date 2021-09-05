@@ -82,7 +82,7 @@ class Contact extends Component {
 					   <p className="address">
 						   {name}<br />
 						   
-						   <span><a href='https://wa.me/message/M5MS72YAKLE3M1' target="_blank"> {phone}</a></span>
+						   <span><a href='https://wa.me/message/DMGOJKK3EHSBD1' target="_blank"> {phone}</a></span>
 					   </p>
 				   </div>
 
